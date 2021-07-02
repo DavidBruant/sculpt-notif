@@ -6,10 +6,9 @@ styles:
     - href: "./build/bundle.css"
 ---
 
-# Test page
+# Sculpter ses notifs
 
-Something should be written here:
+ton instance masto : 
+<input placeholder="eldritch.cafe" value="eldritch.cafe"/>
+<button>Se loger avec Masto</button>
 
-<section class="svelte-main"></section>
-
-Did it work?
